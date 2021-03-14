@@ -2,7 +2,7 @@
 layout: post
 title:  "故事 · MIT女孩：不再担心，像个女孩一样爱上编程"
 image:
-  feature: 100.jpg
+  feature: images/dbq1.png
   topPosition: -256px
 bgContrast: dark
 bgGradientOpacity: darker
