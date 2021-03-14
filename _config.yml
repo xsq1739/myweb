@@ -6,10 +6,10 @@ baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumb
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "HELLOWORLD"
+title: "吉克石子的个人站"
 # 网站的主标题
-name: "HELLOWORLD"
-description: "MY LIFE"
+name: "吉克石子的个人站"
+description: "记录我生活中的小确幸"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
